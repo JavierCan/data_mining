@@ -1,0 +1,133 @@
+numero,indicador,descripcion,mnemonico,rangos,longitud
+1,Clave de entidad federativa,Unidad geográfica mayor de la división político-administrativa del país.,entidad,01..32,2
+2,Nombre de la entidad,Nombre de la entidad.,nom_ent,Alfanumérico,50
+3,Clave de municipio o delegación,División territorial político-administrativa de una entidad federativa.,mun,001..570,3
+4,Nombre del municipio o delegación,Nombre del municipio o delegación.,nom_mun,Alfanumérico,55
+5,Clave de localidad,Todo lugar ocupado por una o más viviendas habitadas.,loc,0001..9999,4
+6,Nombre de la localidad,Nombre de la localidad.,nom_loc,Alfanumérico,50
+7,Longitud,"Medida angular que existe entre cualquier punto de la superficie terrestre y el meridiano arbitrario (Meridiano de Greenwich), su cálculo o medición se representa gráficamente por un arco dividido en grados de 0 a 180 añadiéndoles las expresiones: ""E"" para el este y ""W"" para el oeste.",longitud,Alfanumérico,7
+8,Latitud,"Medida angular que existe desde cualquier punto de la superficie terrestre hasta el Ecuador, su medición o cálculo se representa gráficamente por un arco dividido en grados de 0 a 90 añadiéndoles las expresiones: ""N"" para el hemisferio norte boreal y ""S"" para el hemisferio sur o austral.",latitud,Alfanumérico,6
+9,Altitud,Altura de un punto de la tierra con relación al nivel de mar.,altitud,Alfanumérico,4
+10,Población total,Personas nacionales y extranjeras que residen habitualmente en el país y población estimada de viviendas particulares sin información de ocupantes.,pobtot,0..999999999,9
+11,Población masculina,Población masculina.,pmascul,0..999999999,9
+12,Población femenina,Población femenina.,pfemeni,0..999999999,9
+13,Población de 0 a 4 años,Población de 0 a 4 años.,pob0_4,0..999999999,9
+14,Población de 5 años y más,Población de 5 años y más.,p5_mas,0..999999999,9
+15,Población de 6 a 14 años,Población de 6 a 14 años.,pob6_14,0..999999999,9
+16,Población de 12 años y más,Población de 12 años y más.,pob12_,0..999999999,9
+17,Población de 15 años y más,Población de 15 años y más.,pob15_,0..999999999,9
+18,Población de 15 a 17 años,Población de 15 a 17 años.,pob15_17,0..999999999,9
+19,Población de 15 a 24 años,Población de 15 a 24 años.,pob15_24,0..999999999,9
+20,Po blación femenina de 15 a 49 años,Población femenina de 15 a 49 años.,pobf15_49,0..999999999,9
+21,Población de 18 años y más,Población de 18 años y más.,pob18_,0..999999999,9
+22,Población masculina de 18 años y más,Población masculina de 18 años y más.,pmasc18_,0..999999999,9
+23,Población femenina de 18 años y más,Población femenina de 18 años y más.,pfemen18_,0..999999999,9
+24,Población sin derechohabiencia a servicio de salud,Población que no tiene derecho a servicio de salud en alguna institución.,psderss,0..999999999,9
+25,Población derechohabiente a servicio de salud,"Población con derecho a servicio de salud en alguna institución pública (IMSS, ISSSTE, Pemex, Defensa, Marina y otro tipo) o institución privada.",pcderss,0..999999999,9
+26,Población derechohabiente al IMSS,Población con derecho a servicio de salud en el IMSS (Instituto Mexicano del Seguro Social).,pderimss,0..999999999,9
+27,Población derechohabiente al ISSSTE,Población con derecho a servicio de salud en el ISSSTE (Instituto de Seguridad Social al Servicio de los Trabajadores del Estado).,pderiste,0..999999999,9
+28,Población nacida en la entidad,Población que reside y nació en la entidad.,pnacent,0..999999999,9
+29,Población nacida fuera de la entidad o país,Población residente en la entidad y que nació en otro estado o país.,pnacoent,0..999999999,9
+30,Población de 5 años y más residente en la entidad en 1995,Población de 5 años y más residente que residía en la entidad en 1995.,p5_res95,0..999999999,9
+31,Población de 5 años y más residente en otra entidad o país en 1995,Población de 5 años y más residente que residía en otra entidad o país en 1995.,p5_reso95,0..999999999,9
+32,Población con discapacidad,Población con discapacidad (que presenta alguna limitación física o mental).,pcondisc,0..999999999,9
+33,Población con discapacidad motriz,Población con alguna limitación motriz.,pcdismot,0..999999999,9
+34,Población con discapacidad auditiva,Población con alguna limitación auditiva.,pcdisaud,0..999999999,9
+35,Población con discapacidad visual,Población con alguna limitación visual.,pcdisvis,0..999999999,9
+36,Población con discapacidad mental,Población con alguna limitación mental.,pcdismen,0..999999999,9
+37,Población con discapacidad de lenguaje,Población con alguna limitación de lenguaje.,pcdislen,0..999999999,9
+38,Población sin discapacidad,Población que no tiene discapacidad (limitación física o mental).,psindisc,0..999999999,9
+39,Población de 6 a 14 años que sabe leer y escribir,Población de 6 a 14 años que sabe leer y escribir.,p6_14slee,0..999999999,9
+40,Población de 6 a 14 años que no sabe leer y escribir,Población de 6 a 14 años que no sabe leer y escribir.,p6_14nlee,0..999999999,9
+41,Población de 15 años y más alfabeta,Población de 15 años y más que sabe leer y escribir.,p15_alfab,0..999999999,9
+42,Población de 15 años y más analfabeta,Población de 15 años y más que no sabe leer y escribir.,p15_analf,0..999999999,9
+43,Población de 5 años que asiste a la escuela,Población de 5 años que asiste a la escuela.,p5_asiesc,0..999999999,9
+44,Población de 5 años que no asiste a la escuela,Población de 5 años que no asiste a la escuela.,p5_naesc,0..999999999,9
+45,Población de 6 a 14 años que asiste a la escuela,Población de 6 a 14 años que asiste a la escuela.,p6_14aesc,0..999999999,9
+46,Población de 6 a 14 años que no asiste a la escuela,Población de 6 a 14 años que no asiste a la escuela.,p6_14naesc,0..999999999,9
+47,Población de 15 a 17 años que asiste a la escuela,Población de 15 a 17 años que asiste a la escuela.,p15_17aesc,0..999999999,9
+48,Población de 15 a 24 años que asiste a la escuela,Población de 15 a 24 años que asiste a la escuela.,p15_24aesc,0..999999999,9
+49,Población de 15 a 24 años que no asiste a la escuela,Población de 15 a 24 años que no asiste a la escuela.,p15_24nesc,0..999999999,9
+50,Población de 15 años y más sin instrucción,Población de 15 años y más sin grados aprobados o únicamente con grados aprobados en preescolar o kinder.,p15_sinstr,0..999999999,9
+51,Población de 15 años y más con primaria incompleta,Población de 15 años y más que aprobó de 1 a 5 grados en primaria.,p15_sprima,0..999999999,9
+52,Población de 15 años y más con primaria completa,Población de 15 años y más que aprobó 6 grados en primaria.,p15_cprima,0..999999999,9
+53,Población de 15 años y más con instrucción posprimaria,"Población de 15 años y más con al menos un grado aprobado en secundaria, carrera técnica o comercial (con antecedente de primaria, secundaria o preparatoria), normal básica, preparatoria o bachillerato, profesional, maestría o doctorado.",p15_pospri,0..999999999,9
+54,Población de 15 años y más con secundaria incompleta,Población de 15 años y más con 1 ó 2 grados aprobados en secundaria.,p15_ssecu,0..999999999,9
+55,Población de 15 años y más con secundaria completa,Población de 15 años y más con 3 grados aprobados en secundaria.,p15_csecu,0..999999999,9
+56,Población de 15 años y más sin instrucción posprimaria,"Población de 15 años y más sin grados aprobados, más la que tiene algún grado aprobado en preescolar o kinder o en primaria.",p15_sinsec,0..999999999,9
+57,Población de 15 años y más con instrucción secundaria o estudios técnicos o comerciales con primaria terminada,Población de 15 años y más con al menos un grado aprobado en secundaria o en carrera técnica o comercial con primaria terminada.,p15_consec,0..999999999,9
+58,Población de 15 años y más con instrucción media superior o superior,"Población de 15 años y más con al menos un grado aprobado en preparatoria o bachillerato, carrera técnica o comercial (con antecedente de secundaria o preparatoria), normal básica, profesional, maestría o doctorado.",p15_cmedss,0..999999999,9
+59,Población de 18 años y más sin instrucción media superior,"Población de 18 años y más sin grados aprobados más la que tiene algún grado aprobado en preescolar o kinder, primaria, secundaria o en carrera técnica o comercial (con antecedente de primaria).",p18_smedsu,0..999999999,9
+60,Población de 18 años y más con instrucción media superior,"Población de 18 años y más con algún grado aprobado en preparatoria o bachillerato, carrera técnica o comercial (con antecedente de secundaria) o en normal básica.",p18_cmedsu,0..999999999,9
+61,Población de 18 años y más con instrucción superior,"Población de 18 años y más con algún grado aprobado en carrera técnica o comercial (con antecedente de preparatoria), profesional, maestría o doctorado.",p18_csuper,0..999999999,9
+62,Grado promedio de escolaridad,"Es el resultado de dividir la suma de los años aprobados desde el primero de primaria hasta el último grado alcanzado de las personas de 15 años y más, entre el total de la población de 15 años y más. Se incluye la población de 15 años y más con cero grados aprobados y se excluye a la población de 15 años y más con grados no especificados en algún nivel y a la población con nivel de escolaridad no especificado.",gradoesco,0..999999999,9
+63,Población soltera de 12 años y más,Población de 12 años y más que declaró ser soltera.,psolter12_,0..999999999,9
+64,Población casada o unida de 12 años y más,Población de 12 años y más que declaró ser casada o vivir en unión libre.,pcasada12_,0..999999999,9
+65,Población de 5 años y más que habla lengua indígena,Población de 5 años y más que habla lengua indígena.,p5_hli,0..999999999,9
+66,Población de 5 años y más que habla lengua indígena y no habla español,Población de 5 años y más que habla alguna lengua indígena y no habla español.,p5_hliyne,0..999999999,9
+67,Población de 5 años y más que habla lengua indígena y habla español,Población de 5 años y más que habla alguna lengua indígena y además habla español.,p5_hliye,0..999999999,9
+68,Población de 5 años y más católica,Población de 5 años y más católica.,p5_catolic,0..999999999,9
+69,Población de 5 años y más con alguna religión no católica,Población de 5 años y más con alguna religión diferente a la católica.,p5_ncatoli,0..999999999,9
+70,Población de 5 años y más no católica (incluye sin religión),Población de 5 años y más con una religión diferente a la católica o sin religión.,p5_sinreli,0..999999999,9
+71,Población económicamente activa,Población de 12 años y más que trabajó o buscó trabajo en la semana de referencia.,pecoactiv,0..999999999,9
+72,Población económicamente inactiva,Población de 12 años y más que no trabajó ni busca trabajo en la semana de referencia.,pecoinact,0..999999999,9
+73,Población ocupada,"Población de 12 años y más que trabajó en la semana de referencia. Incluye la población que tenía trabajo, pero no trabajó en la semana de referencia.",pocupada,0..999999999,9
+74,Población ocupada en el sector primario,"Población ocupada que trabajó en la agricultura, ganadería, silvicultura, caza o pesca.",pocusecp,0..999999999,9
+75,Población ocupada en el sector secundario,"Población ocupada que trabajó en la minería, generación y suministro de electricidad y agua, construcción o industria manufacturera.",pocusecs,0..999999999,9
+76,Población ocupada en el sector terciario,"Población ocupada que trabajó en el comercio, en el transporte, los servicios financieros, ofreciendo servicios profesionales, en el gobierno u otros servicios.",pocusect,0..999999999,9
+77,Población ocupada que no recibe ingreso por trabajo,Población ocupada que no recibe ingreso por trabajo.,pocuningr,0..999999999,9
+78,Población ocupada que recibe menos de un salario mínimo mensual de ingreso por trabajo,Población ocupada que recibe menos de un salario mínimo mensual de ingreso por trabajo.,p_1sm,0..999999999,9
+79,Población ocupada que recibe 1 y hasta 2 salarios mínimos mensuales de ingreso por trabajo,Población ocupada que recibe 1 y hasta 2 salarios mínimos mensuales de ingreso por trabajo.,p1_2sm,0..999999999,9
+80,Población ocupada con más de 2 y hasta 5 salarios mínimos mensuales de ingreso por trabajo,Población ocupada que recibe más de 2 y hasta 5 salarios mínimos mensuales de ingreso por trabajo.,p2_5sm,0..999999999,9
+81,Población ocupada que recibe más de 5 y hasta 10 salarios mínimos mensuales de ingreso por trabajo,Población ocupada que recibe más de 5 y hasta 10 salarios mínimos mensuales de ingreso por trabajo.,p6_10sm,0..999999999,9
+82,Población ocupada con más de 10 salarios mínimos mensuales de ingreso por trabajo,Población ocupada que recibe más de 10 salarios mínimos mensuales de ingreso por trabajo.,p10_sm,0..999999999,9
+83,Población que no trabajó en la semana de referencia,Población ocupada que no trabajó en la semana de referencia.,pnotraba,0..999999999,9
+84,Población ocupada que trabajó hasta 32 horas en la semana de referencia,Población ocupada que trabajó de 1 a 32 horas en la semana de referencia.,p_32htra,0..999999999,9
+85,Población ocupada que trabajó de 33 a 40 horas en la semana de referencia,Población ocupada que trabajó de 33 a 40 horas en la semana de referencia.,p33_40htr,0..999999999,9
+86,Población ocupada que trabajó de 41 a 48 horas en la semana de referencia,Población ocupada que trabajó de 41 a 48 horas en la semana de referencia.,p41_48htr,0..999999999,9
+87,Población ocupada que trabajó más de 48 horas en la semana de referencia,Población ocupada que trabajó más de 48 horas en la semana de referencia.,p48_htr,0..999999999,9
+88,Total de viviendas habitadas,Viviendas particulares y colectivas. También incluye a las viviendas sin información de ocupantes y a los refugios.,totvivhab,0..999999999,9
+89,Viviendas particulares habitadas,"Viviendas particulares habitadas (casa independiente, departamento en edificio, vivienda en vecindad, cuarto de azotea, local no construido para habitación y vivienda móvil). Excluye a las viviendas sin información de ocupantes y a los refugios.",vivparhab,0..999999999,9
+90,Ocupantes en viviendas particulares,Ocupantes en viviendas particulares habitadas. Excluye a la población de viviendas sin información de ocupantes y a los refugios.,ocuvivpar,0..999999999,9
+91,Promedio de ocupantes en viviendas particulares,Es el resultado de dividir el total de ocupantes en viviendas particulares habitadas entre el total de viviendas particulares habitadas. Excluye a la población y a las viviendas sin información de ocupantes y a los residentes en refugios.,pro_ovp,0..999999999,9
+92,Promedio de ocupantes por cuarto en viviendas particulares,Es el resultado de dividir el total de ocupantes en viviendas particulares habitadas entre el total de cuartos de esas viviendas. Excluye a la población y a las viviendas sin información de ocupantes y a los residentes en refugios.,pro_ocvp,0..999999999,9
+93,Viviendas particulares habitadas con paredes de material de desecho y lámina de cartón,Viviendas particulares habitadas con paredes de material de desecho y lámina de cartón. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_pardes,0..999999999,9
+94,Viviendas particulares habitadas con techos de material de desecho y lámina de cartón,Viviendas particulares habitadas con techos de material de desecho y lámina de cartón. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_tecdes,0..999999999,9
+95,Viviendas particulares habitadas con piso de material diferente de tierra,"Viviendas particulares habitadas con piso de cemento, mosaico, madera y otros recubrimientos. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_pisdes,0..999999999,9
+96,Viviendas particulares habitadas con un dormitorio,Viviendas particulares habitadas con un dormitorio. Excluye las viviendas particulares sin información de ocupantes y a los refugios.,vp_ccuart,0..999999999,9
+97,Viviendas particulares habitadas con 2 a 5 cuartos (no incluye cocina exclusiva),"Viviendas particulares habitadas que tienen de dos a cinco cuartos, sin contabilizar la cocina exclusiva como cuarto de la vivienda. Excluye las viviendas particulares sin información de ocupantes y a los refugios.",vp2_5cuar,0..999999999,9
+98,Viviendas particulares habitadas con dos cuartos incluyendo la cocina,"Viviendas particulares habitadas con dos cuartos, uno de los cuales es cocina exclusiva (que no duermen en ella). Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_2cuar,0..999999999,9
+99,Viviendas particulares habitadas con un solo cuarto,Viviendas particulares habitadas que en el total de cuartos registraron uno solo. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,v_1cuarto,0..999999999,9
+100,Viviendas particulares habitadas que utilizan gas para cocinar,Viviendas particulares habitadas que utilizan gas para cocinar. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_cocgas,0..999999999,9
+101,Viviendas particulares habitadas que utilizan leña para cocinar,Viviendas particulares habitadas que utilizan leña para cocinar. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_coclen,0..999999999,9
+102,Viviendas particulares habitadas que utilizan carbón para cocinar,Viviendas particulares habitadas que utilizan carbón para cocinar. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_coccar,0..999999999,9
+103,Viviendas particulares habitadas que utilizan petróleo para cocinar,Viviendas particulares habitadas que utilizan petróleo para cocinar. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_cocpet,0..999999999,9
+104,Viviendas particulares habitadas que disponen de servicio sanitario exclusivo,Viviendas particulares habitadas que disponen de servicio sanitario exclusivo. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_sersan,0..999999999,9
+105,Viviendas particulares habitadas que disponen de agua entubada,Viviendas particulares habitadas que disponen de agua entubada en el ámbito de la vivienda. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_aguent,0..999999999,9
+106,Viviendas particulares habitadas que disponen de drenaje,"Viviendas particulares habitadas que disponen de drenaje conectado a la red pública, fosa séptica, barranca o grieta, río, lago o mar. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.",vp_drenaj,0..999999999,9
+107,Viviendas particulares habitadas que disponen de energía eléctrica,Viviendas particulares habitadas que disponen de energía eléctrica. Excluye a las viviendas particulares sin información de ocupantes y a los refugios.,vp_electr,0..999999999,9
+108,Viviendas particulares habitadas que sólo disponen de drenaje y agua entubada,"Viviendas particulares habitadas que disponen de drenaje conectado a la red pública, fosa séptica, barranca o grieta, río, lago o mar y que también disponen de agua entubada en el ámbito de la vivienda. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_dreagu,0..999999999,9
+109,Viviendas particulares habitadas que sólo disponen de drenaje y energía eléctrica,"Viviendas particulares habitadas que disponen de drenaje conectado a la red pública, fosa séptica, barranca o grieta, río, lago o mar y que también disponen de electricidad. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_dreele,0..999999999,9
+110,Viviendas particulares habitadas que sólo disponen de agua entubada y energía eléctrica,Viviendas particulares habitadas que disponen de agua entubada en el ámbito de la vivienda y también disponen de energía eléctrica. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_aguele,0..999999999,9
+111,"Viviendas particulares habitadas que disponen de agua entubada, drenaje y energía eléctrica","Viviendas particulares habitadas que disponen de agua entubada en el ámbito de la vivienda; disponen de drenaje conectado a fosa séptica, barranca o grieta, río, lago o mar y también disponen de electricidad. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_agdrel,0..999999999,9
+112,"Viviendas particulares habitadas que no disponen de agua entubada, drenaje ni energía eléctrica","Viviendas particulares habitadas que no disponen de agua entubada, drenaje ni energía eléctrica. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_noade,0..999999999,9
+113,Viviendas particulares habitadas propias,"Viviendas particulares habitadas propias que están pagándose, están totalmente pagadas o están en otra situación. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_propia,0..999999999,9
+114,Viviendas particulares habitadas propias pagadas,Viviendas particulares habitadas propias pagadas. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_ppagad,0..999999999,9
+115,Viviendas particulares habitadas propias pagándose,Viviendas particulares habitadas propias que no han sido pagadas totalmente. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_ppagan,0..999999999,9
+116,Viviendas particulares habitadas rentadas,Viviendas particulares habitadas rentadas. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_rentad,0..999999999,9
+117,Viviendas particulares habitadas con todos los bienes,"Viviendas particulares habitadas que disponen de radio, televisión, videocasetera, licuadora, refrigerador, lavadora, teléfono, calentador de agua, automóvil o camioneta propia y computadora. Excluye a las viviendas sin información de ocupantes y a los refugios.",vp_cbiene,0..999999999,9
+118,Viviendas particulares habitadas sin ningún bien,Viviendas particulares habitadas sin ningún bien. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_sbiene,0..999999999,9
+119,Viviendas particulares habitadas que disponen de radio o radiograbadora,Viviendas particulares habitadas que disponen de radio o radiograbadora. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_radio,0..999999999,9
+120,Viviendas particulares habitadas que disponen de televisión,Viviendas particulares habitadas que disponen de televisión. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_tv,0..999999999,9
+121,Viviendas particulares habitadas que disponen de videocasetera,Viviendas particulares habitadas que disponen de videocasetera. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_video,0..999999999,9
+122,Viviendas particulares habitadas que disponen de refrigerador,Viviendas particulares habitadas que disponen de refrigerador. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_refri,0..999999999,9
+123,Viviendas particulares habitadas que disponen de lavadora,Viviendas particulares habitadas que disponen de lavadora. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_lavad,0..999999999,9
+124,Viviendas particulares habitadas que disponen de teléfono,Viviendas particulares habitadas que disponen de teléfono. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_telef,0..999999999,9
+125,Viviendas particulares habitadas que disponen de calentador de agua (boiler),Viviendas particulares habitadas que disponen de calentador de agua (boiler). Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_boiler,0..999999999,9
+126,Viviendas particulares habitadas que disponen de automóvil o camioneta propia,Viviendas particulares habitadas que disponen de automóvil o camioneta propia. Excluye a las viviendas sin información de ocupantes y a los refugios.,vp_autom,0..999999999,9
+127,Total de hogares,Suma de hogares en viviendas particulares habitadas.,tothog,0..999999999,9
+128,Hogares con jefatura masculina,Hogares que tienen como jefe a un hombre.,hogjefm,0..999999999,9
+129,Hogares con jefatura femenina,Hogares que tienen como jefe a una mujer.,hogjeff,0..999999999,9
+130,Población en hogares,Personas que forman parte de hogares. Excluye a la población que vive en viviendas colectivas y a la población estimada de viviendas sin información de ocupantes.,pobhog,0..999999999,9
+131,Población en hogares con jefatura masculina,Población que forma parte de los hogares que tienen como jefe a un hombre. Excluye a la población que vive en viviendas colectivas y a la población estimada de viviendas sin información de ocupantes.,phogjefm,0..999999999,9
+132,Población en hogares con jefatura femenina,Población que forma parte de los hogares que tienen como jefe a una mujer. Excluye a la población que vive en viviendas colectivas y a la población estimada de viviendas sin información de ocupantes.,phogjeff,0..999999999,9

@@ -1,0 +1,21 @@
+Estudiante Sin Vehículo,Estudiante Con Vehículo,Emparejamiento Exitoso,Dirección (Colonia) (Sin Vehículo),Horario de Clases (Sin Vehículo),Posee Vehículo (Sin Vehículo),Asientos Disponibles (Sin Vehículo),Disponibilidad para Compartir Viajes (Sin Vehículo),Necesidad de Transporte (Sin Vehículo),Preferencias Adicionales (Sin Vehículo),Coordenadas (Sin Vehículo),Cluster (Sin Vehículo),Dirección (Colonia) (Con Vehículo),Horario de Clases (Con Vehículo),Posee Vehículo (Con Vehículo),Asientos Disponibles (Con Vehículo),Disponibilidad para Compartir Viajes (Con Vehículo),Necesidad de Transporte (Con Vehículo),Preferencias Adicionales (Con Vehículo),Coordenadas (Con Vehículo),Cluster (Con Vehículo)
+UPY2023001,UPY2023000,Sí,Ciudad Caucel,2 PM - 9 PM,No,0,No,Sí,Ninguna,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023005,UPY2023004,No,Chuburná,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.0125, -89.65118)",2,Chuburná,2 PM - 9 PM,Sí,1,Sí,Sí,Ninguna,"(21.0125, -89.65118)",1
+UPY2023006,UPY2023002,Sí,Montes de Amé,7 AM - 2 PM,No,0,No,Sí,Solo mujeres,"(21.03435, -89.61553)",2,Montes de Amé,7 AM - 2 PM,Sí,3,Sí,Sí,Ninguna,"(21.03435, -89.61553)",1
+UPY2023010,UPY2023019,Sí,Centro,7 AM - 2 PM,No,0,No,Sí,Solo mujeres,"(20.96838, -89.62094)",2,Centro,7 AM - 2 PM,Sí,4,Sí,No,Solo mujeres,"(20.96838, -89.62094)",1
+UPY2023011,UPY2023018,No,Altabrisa,2 PM - 9 PM,No,0,No,Sí,Solo mujeres,"(21.01726, -89.58247)",0,Altabrisa,7 AM - 2 PM,Sí,1,Sí,No,Solo mujeres,"(21.01726, -89.58247)",1
+UPY2023013,UPY2023002,Sí,Montes de Amé,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.03435, -89.61553)",2,Montes de Amé,7 AM - 2 PM,Sí,3,Sí,Sí,Ninguna,"(21.03435, -89.61553)",1
+UPY2023020,UPY2023000,No,Ciudad Caucel,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023023,UPY2023018,No,Altabrisa,2 PM - 9 PM,No,0,No,Sí,Ninguna,"(21.01726, -89.58247)",2,Altabrisa,7 AM - 2 PM,Sí,1,Sí,No,Solo mujeres,"(21.01726, -89.58247)",1
+UPY2023031,UPY2023000,No,Ciudad Caucel,7 AM - 2 PM,No,0,No,Sí,Solo hombres,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023034,UPY2023008,No,Francisco de Montejo,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.03017, -89.6453)",2,Francisco de Montejo,2 PM - 9 PM,Sí,2,Sí,Sí,Ninguna,"(21.03017, -89.6453)",1
+UPY2023044,UPY2023002,No,Montes de Amé,2 PM - 9 PM,No,0,No,Sí,Solo hombres,"(21.03435, -89.61553)",0,Montes de Amé,7 AM - 2 PM,Sí,3,Sí,Sí,Ninguna,"(21.03435, -89.61553)",1
+UPY2023046,UPY2023008,Sí,Francisco de Montejo,2 PM - 9 PM,No,0,No,Sí,Ninguna,"(21.03017, -89.6453)",2,Francisco de Montejo,2 PM - 9 PM,Sí,2,Sí,Sí,Ninguna,"(21.03017, -89.6453)",1
+UPY2023053,UPY2023004,No,Chuburná,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.0125, -89.65118)",2,Chuburná,2 PM - 9 PM,Sí,1,Sí,Sí,Ninguna,"(21.0125, -89.65118)",1
+UPY2023054,UPY2023000,Sí,Ciudad Caucel,2 PM - 9 PM,No,0,No,Sí,Ninguna,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023063,UPY2023019,No,Centro,2 PM - 9 PM,No,0,No,Sí,Ninguna,"(20.96838, -89.62094)",2,Centro,7 AM - 2 PM,Sí,4,Sí,No,Solo mujeres,"(20.96838, -89.62094)",1
+UPY2023067,UPY2023000,Sí,Ciudad Caucel,2 PM - 9 PM,No,0,No,Sí,Solo mujeres,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023082,UPY2023004,Sí,Chuburná,2 PM - 9 PM,No,0,No,Sí,Solo hombres,"(21.0125, -89.65118)",0,Chuburná,2 PM - 9 PM,Sí,1,Sí,Sí,Ninguna,"(21.0125, -89.65118)",1
+UPY2023087,UPY2023019,Sí,Centro,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(20.96838, -89.62094)",2,Centro,7 AM - 2 PM,Sí,4,Sí,No,Solo mujeres,"(20.96838, -89.62094)",1
+UPY2023092,UPY2023000,No,Ciudad Caucel,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.01569, -89.70514)",2,Ciudad Caucel,2 PM - 9 PM,Sí,4,Sí,No,Solo mujeres,"(21.01569, -89.70514)",1
+UPY2023099,UPY2023018,Sí,Altabrisa,7 AM - 2 PM,No,0,No,Sí,Ninguna,"(21.01726, -89.58247)",2,Altabrisa,7 AM - 2 PM,Sí,1,Sí,No,Solo mujeres,"(21.01726, -89.58247)",1
